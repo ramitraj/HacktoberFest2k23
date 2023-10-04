@@ -11,4 +11,9 @@
 
 ...
 
+### **Ramit Raj**: [Ramit](https://github.com/ramitraj)
+- Karnataka, India
+- Hobbies: Playing chess.
+
+...
 
